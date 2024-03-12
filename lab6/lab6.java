@@ -3,5 +3,4 @@ class Main {
 		System.out.println("Hello World2");
 		System.out.println("C2");
 	}
-
 }
